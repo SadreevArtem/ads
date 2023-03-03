@@ -1,0 +1,12 @@
+:root {
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
